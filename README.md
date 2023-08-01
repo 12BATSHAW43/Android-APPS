@@ -1,4 +1,10 @@
 # Android-CALC-APP
+
+![calc](https://github.com/ManthanGajjar12/Android-CALC-APP/assets/96676537/e29156f8-6555-4a39-a39f-40d063b175b9)
+
+
+
+
 NOTE this design layout is not dynamic i.e it doesn't support every device screen aspect ratios.
 And this code is written using JAVA in Android Studio
 
