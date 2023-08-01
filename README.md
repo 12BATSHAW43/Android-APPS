@@ -15,8 +15,8 @@ USED nested linear layout to create button layount for the calculator app in whi
 
 
 
-we created  void assignId(MaterailButton btn, int id) method to assign id and setOnClickListener to respective button using this method. and for this we need to implement View.OnClickListener interface
-We will override onClick() method , in this method we will get the button and get the text from that button and set it  into solutiontv  in order to check if our onClick() method is working or not.
+We created  void assignId(MaterailButton btn, int id) method to assign id and setOnClickListener to respective button using this method. and for this we need to implement View.OnClickListener interface
+. We will override onClick() method , in this method we will get the button and get the text from that button and set it  into solutiontv .
 In solution text view we are going to display whole operations user clicked and if he/she clicks equalsto then we set solution =result text 
 We set Functionality of buttons AC ,= ,^and C differently using if block in onClick method 
 This libraries is used to evaluate the calcuation of the string and  set it into solution text view and result textview when equals_to is pressed --->
